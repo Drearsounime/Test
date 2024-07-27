@@ -1,4 +1,4 @@
 # Test
 For testing
 =================================
-I'm going to put my previous project on ‘Word Mnemonics’ here.
+I put here the "Word Extractor" project I wrote when I was learning JAVA.
